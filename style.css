@@ -42,8 +42,8 @@ body {
 #article {
     background: #777;
     color: #ebebeb;
-    width: 495px;
-    height: 215px;
+    width: 420px;
+    height: 220px;
     padding: 20px 5px -10px 20px;
     margin: 50px;
 }
@@ -51,8 +51,8 @@ body {
 #aside {
     background: #ebebeb;
     color: #777;
-    width: 463px;
-    float: left; 
+    width: 455px;
+    float: right; 
     height: 290px;
     padding: 20px 0px 30px 0px;
     
@@ -72,16 +72,18 @@ body {
 #h {
     background:#ebebeb;
     color: #777;
-    margin: 10px;
-    padding: 15px;
+    margin: 15px;
+    padding: 20px;
+    width:350px;
 
 }
 
 #p {
     background: #ebebeb;
     color: #777;
-    margin: 10px;
-    padding: 15px;
+    margin: 15px;
+    padding: 20px;
+    width:350px;
 }
 
 
